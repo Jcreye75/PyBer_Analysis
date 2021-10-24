@@ -24,3 +24,8 @@ Per the DataFrame generated, per Type of City from Jan 1st up to April 28th from
 -	The rest of the days, it can be seen an oscillating behavior, which must be explained looking for the correlation of each type of cities, it can be seen that one increase while the other decrease, but it happens once, it is not a common behavior. Needs to be done a deeply analysis.
 
 ## Summary
+Proposals to PyBer
+
+- Add additional data to confirm: It seems that Urban cities had less distance travels than Suburban and Urban. Vice Versa, Rural Cities seems to have longer distance travels. It may provide additional info if the decision takers can add distance and duration of travel.
+
+- Considering the comment done in the previous bullet. I would add. A Driver in Rural Type only performs in average 0.68 rides in 4 months, compared to a Urban driver which performs in average 1.6 rides in 4 months… this does not make any sense that a driver can maintain its driver activity with only 1.6 rides in 4 months. I would ask about the criteria of the data provided. 
