@@ -12,7 +12,7 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 ### DataFrame
 A Dataframe by City Type was created combining two data sets. The merging was done using the groupby() functions, accordingly the fare per ride and fare per driver averages could be calculated. Results as follows:
 
-![Dataframe](https://github.com/Jcreye75/PyBer_Analysis/blob/4863adfbf00457f142e97f5678ccfd2bbba86c23/analysis/Dataframe.png
+![Dataframe](https://github.com/Jcreye75/PyBer_Analysis/blob/4863adfbf00457f142e97f5678ccfd2bbba86c23/analysis/Dataframe.png)
 -	As it can be seen, most quantity of rides occurs on Urban Types, and the less one is the Rural ones. In line with this, que quantity of drivers is aligned to the volume required per type of city. The major number of drivers are concentrated on the Urban Type, while Rural types concentrate the smaller number of drivers.
 -	In the other hand, specialization (less amount of drivers and rides) had the best average fare per ride or rider, and the generality had the minor average fare per ride and driver, as it can be seen on Urban line.
 
