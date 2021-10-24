@@ -17,7 +17,7 @@ A Dataframe by City Type was created combining two data sets. The merging was do
 -	In the other hand, specialization (less amount of drivers and rides) had the best average fare per ride or rider, and the generality had the minor average fare per ride and driver, as it can be seen on Urban line.
 
 ###  About Graph (Linear – Total Fares for each city type)
-Per the DataFrame generated, per Type of City from Jan 1st up to April 28th from 2018, the total fare was graphed as follows: (Using Matplotlib).   
+Per the DataFrame generated, per Type of City from Jan 1st up to April 28th from 2019, the total fare was graphed as follows: (Using Matplotlib).   
 ![PyBer_fare_summary](https://github.com/Jcreye75/PyBer_Analysis/blob/c6ad52508dab4265e84dd1bd39d95c748bb3c42a/analysis/PyBer_fare_summary.png)
 -	According to the results on the table of the Datafame commented, lower line belongs to Rural (blue), orange line to the suburban type and higher line belongs to the Rural type.
 -	Something occurred after February mid, that all three types of cities showed, and rise tin the fares which decreased again and the beginning of march. 
